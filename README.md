@@ -7,7 +7,10 @@ This repository contains a **Streamlit** application for comparing the 5-year to
 
 You can **customize** the parameters—like monthly tokens, usage growth, GPU costs, and labor—to see how each setup’s costs evolve over time. The app provides a year-by-year breakdown, calculates overall totals, and visualizes cumulative costs with a line chart.
 
-APp Link --> [LLM Cost Simulation Tool](https://llm-cost-comparison-by-al.streamlit.app/)
+App Link --> [LLM Cost Simulation Tool](https://llm-cost-comparison-by-al.streamlit.app/)
+
+![llm-cost](https://github.com/user-attachments/assets/18a68798-624e-4bdb-a114-ec7328a0888f)
+
 ---
 
 ## Features
